@@ -1,5 +1,5 @@
 # Let's make a web scraper
-!pip install requests BeautifulSoup4
+# Need to do this: !pip install requests BeautifulSoup4
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
